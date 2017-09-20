@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=firstWord\ secondWord
+comment0.target=Command(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Eingegebenen\ W\u00F6rter\ werden\ gespiechert.\r\n\ @param\ firstWord\ Das\ erste\ Wort.\ Enth\u00E4lt\ 'null'\ wenn\ der\ Befehl\ nicht\ erkannt\ wurde.\r\n\ @param\ secondWord\ Das\ zweite\ Wort.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCommandWord()
+comment1.text=\r\n\ Gibt\ das\ commandWord,\ also\ das\ erste\ Wort\ aus.\r\n\ Es\ enth\u00E4lt\ 'null'\ wenn\ es\ nicht\ erkannt\ wurde.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSecondWord()
+comment2.text=\r\n\ Gibt\ das\ second\ Wort\ aus.\r\n\ Es\ enth\u00E4lt\ 'null'\ wenn\ es\ nicht\ erkannt\ wurde.\r\n
+comment3.params=
+comment3.target=boolean\ isUnknown()
+comment3.text=\r\n\ @return\ true\ wenn\ die\ Eingabe\ nicht\ verstanden\ wurde,\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ @return\ true\ wenn\ die\ Eingabe\ aus\ 2\ W\u00F6rtern\ besteht.\r\n
+numComments=5
