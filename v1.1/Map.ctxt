@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=
+comment1.target=Map()
+comment2.params=x\ y\ pGegenstand
+comment2.target=void\ setContent(int,\ int,\ Gegenstand)
+comment3.params=x\ y
+comment3.target=Gegenstand\ getContent(int,\ int)
+numComments=4

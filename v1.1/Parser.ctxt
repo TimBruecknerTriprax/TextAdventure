@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Initialisiert\ die\ 2\ W\u00F6rter,\ gleicht\ sie\ ab\ \ mit\ Command\ Liste\r\n\ @author\ (Max,\ Noah,\ Tim)\ \r\n\ @version\ (0.0.1\ 04.09.2017)\r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Erstellt\ Scanner\ um\ Eingaben\ auszulesen.\r\n
+comment2.params=
+comment2.target=Command\ getCommand()
+comment2.text=\r\n\ @return\ The\ next\ command\ from\ the\ user.\r\n
+numComments=3

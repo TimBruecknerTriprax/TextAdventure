@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kampf
+comment1.params=
+comment1.target=Kampf()
+comment2.params=
+comment2.target=void\ StartKampf()
+comment3.params=
+comment3.target=void\ Kampfmodus()
+comment4.params=
+comment4.target=void\ Angriff()
+comment5.params=Zeit
+comment5.target=void\ pause(int)
+numComments=6
