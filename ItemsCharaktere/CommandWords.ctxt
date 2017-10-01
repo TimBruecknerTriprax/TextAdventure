@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CommandWords()
+comment0.text=\r\n\ Initialisiert\ Befehle\ mit\ Werten.\r\n
+comment1.params=aString
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=\r\n\ \u00DCberpr\u00FCft\ das\ String,\ ob\ ein\ Befehl\ vorhanden\ ist.\ \r\n\ @return\ true\ wenn\ der\ Befehl\ existiert,\r\n\ false\ wenn\ er\ nicht\ existiert.\r\n
+numComments=2
